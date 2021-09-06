@@ -1,5 +1,5 @@
 # Skyroads
-OpenGL game created by me with the Faculty of Automatic Control and Computers's framework
+OpenGL game created by me with the Faculty of Automatic Control and Computers's framework.
 All right's reserved to Universitatea Politehnica din Bucuresti, Faculty of Automatic Control and Computer's and all the authors to the framework which I have used.
 
 POSSIBLE IMPROVEMENTS:
